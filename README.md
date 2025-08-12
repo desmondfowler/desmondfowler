@@ -12,13 +12,10 @@ I’m a **Systems Analyst** with 4+ years in IT support, business analysis, and 
 - Automated ERP tasks with scripts, cutting out manual errors and boosting efficiency.
 - Led HR software migrations and integrations with zero downtime.
 
-### **Program System Analyst Officer** (2022 - 2023)
+### **Program System Analyst Officer** (2021 - 2023)
 
 - Automated account creation for 60,000+ employees using Excel macros and Python, reducing processing time by 80%.
 - Ran SAP-based ETL processes for data analysis, improving call center survey results by 20%.
-
-### **Student Hire** (2021 - 2022)
-
 - Built automation tools for compensation tasks, delivering quick, reliable fixes.
 - Created a VBA macro to automate union dues reporting, saving hours monthly.
 
@@ -26,15 +23,11 @@ I’m a **Systems Analyst** with 4+ years in IT support, business analysis, and 
 
 ## Technical Skills
 
-- **Scripting**: Python, Bash, VBA
+- **Scripting**: Type/Javascript, Python, Bash, VBA
 - **Containerization**: Docker, k3s
 - **Databases**: PL/SQL, PostgreSQL
-- **Cloud Computing**: AWS
-- **Infrastructure as Code**: Terraform
+- **IaC/Configuration**: Ansible, Terraform
 - **CI/CD**: Exploring GitHub Actions
-- **Configuration Management**: Ansible
-- **Linux Administration**
-- **Networking**: TCP/IP, VPN
 
 ---
 
