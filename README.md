@@ -6,7 +6,27 @@ I’m a **Systems Analyst** with 4+ years in IT support, business analysis, and 
 
 ## Professional Experience
 
-### **Systems Analyst** (2023 - Current)
+### Technical Consultant – Oracle ERP & API Modernization (2025 – Present)
+
+![Oracle](https://img.shields.io/badge/Oracle-PL/SQL-F80000?logo=oracle) ![API](https://img.shields.io/badge/Custom-APIs-00A1F1) ![ERP](https://img.shields.io/badge/ERP-Modernization-00698f)
+
+#### **10 Custom APIs in <30 Days**
+- End-to-end automation via agile syncs  
+- Reusable docs + KT framework → [API-Docs-KT.zip](link)  
+- **Client-owned scalability** model
+
+#### **Customizations Audit & Risk Reduction**
+- Full inventory (no logs) → prioritized upgrade roadmap  
+- Slashed technical debt pre-migration
+
+#### **Critical Fixes & Modernizations**
+| Initiative | Key Actions | Impact |
+|------------|-------------|--------|
+| Oracle View Regression | Diagnosis + prod workaround | Averted disruptions (48h fix) |
+| Legacy Procurement → API-First | NDA + data flow mapping | Multi-org automation foundation |
+| Duplicate Record Detection | Schema isolation + vendor alignment | Best-practice patterns |
+
+### **Systems Analyst** (2023 - 2025)
 
 - Optimized ERP processes with SQL and Automic workflows, slashing HR and Payroll report times by up to 95%.
 - Automated ERP tasks with scripts, cutting out manual errors and boosting efficiency.
