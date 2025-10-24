@@ -87,10 +87,9 @@
 
 ## Let’s Connect
 
-- **Location**: Bald Knob, Arkansas  
 - **Phone**: (501) 530-5823  
 - **Email**: [desmondmfowler@gmail.com](mailto:desmondmfowler@gmail.com)  
 - **LinkedIn**: [linkedin.com/in/desmondfowler](https://linkedin.com/in/desmondfowler)  
 - **GitHub**: [github.com/desmondfowler](https://github.com/desmondfowler)
 
-Actively exploring **software development** and **data infrastructure** roles. Open to collaboration on **automation**, **APIs**, or **Kubernetes** projects — reach out!
+Actively exploring **software development** and **data infrastructure** roles. Open to collaboration on **automation**, **APIs**, or **Kubernetes** projects.
